@@ -10,8 +10,11 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomujin&show_icons=true&theme=radical&count_private=true)](https://github.com/xiaomujin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomujin&layout=compact&theme=radical)](https://github.com/xiaomujin)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile?username=xiaomujin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaomujin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaomujin&theme=radical" />
+</p>
 
 ## 🔥 GitHub Streak
 

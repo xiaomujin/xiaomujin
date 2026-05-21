@@ -10,10 +10,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiaomujin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomujin&layout=compact&theme=radical"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomujin&show_icons=true&theme=radical&count_private=true)](https://github.com/xiaomujin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomujin&layout=compact&theme=radical)](https://github.com/xiaomujin)
 
 ## 🔥 GitHub Streak
 

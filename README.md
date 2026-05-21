@@ -11,8 +11,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaomujin&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaomujin&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiaomujin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomujin&layout=compact&theme=radical"/>
 </p>
 
 ## 🔥 GitHub Streak
@@ -20,5 +20,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=xiaomujin&theme=radical" alt="GitHub Streak"/>
 </p>
-
-

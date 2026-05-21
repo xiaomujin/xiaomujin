@@ -11,7 +11,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile?username=xiaomujin&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaomujin&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaomujin&theme=radical" />
 </p>

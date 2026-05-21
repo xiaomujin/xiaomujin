@@ -20,9 +20,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=xiaomujin&theme=radical" alt="GitHub Streak"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks for visiting!&animation=twinkling" />
-</p>

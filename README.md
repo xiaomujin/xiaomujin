@@ -23,14 +23,6 @@
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,python,java,git,github,docker,vscode" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks for visiting!&animation=twinkling" />
 </p>
